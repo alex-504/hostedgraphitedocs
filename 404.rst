@@ -1,0 +1,8 @@
+
+404 - Page Not Found
+====================
+
+Oops, this page isn't here anymore.
+
+
+`Docs Home <https://www.hostedgraphite.com/docs/index.html>`_

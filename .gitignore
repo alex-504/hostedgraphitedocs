@@ -1,0 +1,10 @@
+
+# this and its contents gets generated on build
+build/*
+.idea/*
+*.DS_Store 
+.vscode
+
+*.swp
+# vim
+
